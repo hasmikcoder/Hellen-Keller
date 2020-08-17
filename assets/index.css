@@ -54,7 +54,7 @@ li {
 }
 
 footer{
- border-color: blue;
+ border-color: darkcyan;
   border-width: 5px;
   border-style: solid; 
 }
@@ -64,5 +64,5 @@ a {
 }
 
 a:visited {
-  color: blue;
+  color: purple;
 }
